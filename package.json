@@ -1,0 +1,19 @@
+{
+  "name": "phaser-plugin-virtual-gamepad",
+  "version": "1.0.0",
+  "description": "Phaser Plugin: VirtualGamepad =============================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coverslide/phaser-plugin-virtual-gamepad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coverslide/phaser-plugin-virtual-gamepad/issues"
+  },
+  "homepage": "https://github.com/coverslide/phaser-plugin-virtual-gamepad#readme"
+}
